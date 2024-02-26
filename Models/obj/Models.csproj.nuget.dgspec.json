@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\Models\\Models.csproj": {}
+    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\Models\\Models.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\Models\\Models.csproj": {
+    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\Models\\Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\Models\\Models.csproj",
+        "projectUniqueName": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\Models\\Models.csproj",
         "projectName": "Models",
-        "projectPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\Models\\Models.csproj",
+        "projectPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\Models\\Models.csproj",
         "packagesPath": "C:\\Users\\dd20129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\Models\\obj\\",
+        "outputPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\Models\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dd20129\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J77BaRd4BEE84lkJivlYUzc2fHpYznSjIlQXy4/QeSHVSFe8WylcMy9yWmwkMzWhsHWRCxUjxvfQwSwqOoV+4A==",
+  "dgSpecHash": "klUzky441ZxEo2OSlADFCG5r+Z/SulPCYfMG2fEoAzyJ38b2RZlnlzjglZDXslDBGGzP51GIbZjKTmHWnfTwFg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\BAL\\BAL.csproj",
+  "projectFilePath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\BAL\\BAL.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dd20129\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\dd20129\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.11\\microsoft.entityframeworkcore.7.0.11.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\DAL.csproj": {}
+    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\DAL.csproj": {}
   },
   "projects": {
-    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\DAL.csproj": {
+    "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\DAL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\DAL.csproj",
+        "projectUniqueName": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\DAL.csproj",
         "projectName": "DAL",
-        "projectPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\DAL.csproj",
+        "projectPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\DAL.csproj",
         "packagesPath": "C:\\Users\\dd20129\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\obj\\",
+        "outputPath": "C:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\dd20129\\AppData\\Roaming\\NuGet\\NuGet.Config"

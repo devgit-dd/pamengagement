@@ -994,11 +994,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\DAL.csproj",
+      "projectUniqueName": "c:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\DAL.csproj",
       "projectName": "DAL",
-      "projectPath": "c:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\DAL.csproj",
+      "projectPath": "c:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\DAL.csproj",
       "packagesPath": "C:\\Users\\dd20129\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\PAMEngagementApp\\DAL\\obj\\",
+      "outputPath": "c:\\Users\\dd20129\\Desktop\\Projects_Current\\PAMEngagement\\github\\pamengagement\\DAL\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\dd20129\\AppData\\Roaming\\NuGet\\NuGet.Config"
