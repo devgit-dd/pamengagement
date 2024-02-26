@@ -1,0 +1,25 @@
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\bin\Debug\net7.0\DAL.deps.json
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\bin\Debug\net7.0\DAL.dll
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\bin\Debug\net7.0\DAL.pdb
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\DAL.dll
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\refint\DAL.dll
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\DAL.pdb
+c:\Users\MG34390\Desktop\Engagement Plan Prototype\EngagementPlanPrototype\DAL\obj\Debug\net7.0\ref\DAL.dll
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\bin\Debug\net7.0\DAL.deps.json
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\bin\Debug\net7.0\DAL.dll
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\bin\Debug\net7.0\DAL.pdb
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.csproj.AssemblyReference.cache
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.AssemblyInfoInputs.cache
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.AssemblyInfo.cs
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.csproj.CoreCompileInputs.cache
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.dll
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\refint\DAL.dll
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.pdb
+c:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\ref\DAL.dll
+C:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\bin\Debug\net7.0\DAL.runtimeconfig.json
+C:\Users\PG30765\Desktop\PAMEngagement\PAMEngagementApp-1\DAL\obj\Debug\net7.0\DAL.genruntimeconfig.cache
